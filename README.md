@@ -29,7 +29,6 @@ Atualmente, atuo na área de **TI/TO**, apoiando processos, trabalhando com sist
 ![SQL](https://img.shields.io/badge/SQL-e9d5ff?style=for-the-badge&logo=databricks&logoColor=4c1d95)
 ![Oracle](https://img.shields.io/badge/Oracle-fce7f3?style=for-the-badge&logo=oracle&logoColor=c24170)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-dbeafe?style=for-the-badge&logo=microsoftsqlserver&logoColor=1d4ed8)
-![Python](https://img.shields.io/badge/Python-dcfce7?style=for-the-badge&logo=python&logoColor=166534)
 ![Firebird](https://img.shields.io/badge/Firebird-f3e8ff?style=for-the-badge&logoColor=7e22ce)
 
 ## 🎓 Formação
